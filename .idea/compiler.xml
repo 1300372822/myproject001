@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="fastdfs_SSM" />
+        <module name="fastdfstest1" />
+        <module name="SSM" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="fastdfs_SSM" target="1.5" />
+      <module name="fastdfstest1" target="1.5" />
+      <module name="fasttdfs_SSM" target="1.5" />
+      <module name="SSM" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
